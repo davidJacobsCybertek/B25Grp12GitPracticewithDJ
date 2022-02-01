@@ -6,6 +6,7 @@ public class ElenaTestcase013 {
 
         System.out.println("Elena's test");
 
-        // comment
+        // comment Valeriy
+        //2
     }
 }
