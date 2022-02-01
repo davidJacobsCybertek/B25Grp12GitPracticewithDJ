@@ -2,7 +2,7 @@ package B25GitPracticePackage;
 
 public class David {
     public static void main(String[] args) {
-        String str1="ggg3";
+        String str1="SSinnnnaa" + "222a";
 
     }
 }
